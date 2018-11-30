@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9224FC6-2082-49BA-80EA-F2BD8BC01627",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "230B0BC1-236C-4B20-B1F4-060C19722B21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB3C3BFC-B87F-455D-AB4A-DDF7F8765377",
+    "height": 15,
+    "width": 195,
+    "x": 426,
+    "y": 369
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/regular copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AD6B29F-BCDA-4526-B584-4F168705BEEE",
+      "overrideName": "B71173B1-2A80-4F48-8688-659756DB9C1B_stringValue",
+      "value": "Revenue and growth"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E17D25F4-916D-4440-8A18-F49DB654D001",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1B63AE8-36D8-4CA2-8B16-258A8FCFD6B6",
+  "verticalSpacing": 0
+}

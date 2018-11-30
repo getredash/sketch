@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFCFF622-BDA3-4DD6-BBBF-726A268EE92B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A69A4DA2-FF5B-4747-A8EE-7881B8B263E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "918A1CC7-07D1-4710-BF14-63E38D67474B",
+    "height": 35,
+    "width": 172,
+    "x": 540,
+    "y": 431
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6540551-84E9-4190-8522-2B4B511EFB86_stringValue",
+      "value": "Arik"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEF89859-8333-4E82-9BB7-BF337EFA959D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2AF2791-0F01-44E1-8A83-0D19A212CD5F",
+  "verticalSpacing": 0
+}

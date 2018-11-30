@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1F46062-7863-443A-AB4D-8E50410244EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84655A82-68AA-4386-9309-9CE00D07BF9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29A9E282-BA21-4189-9090-5FAC83BC972C",
+    "height": 56,
+    "width": 45,
+    "x": 112,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BDB27C74-2D62-41E3-98CF-9D543247D156"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F4ECD7C-950F-47EF-AF8E-A8E85559D526"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0759578-F6D7-4A90-B0D9-A4E60E408D48"
+    }
+  ],
+  "name": "Group 5 Copy 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6B72EB2C-0C43-48EF-9D52-0025230B1AEC",
+      "opacity": 0.4478034420289855
+    },
+    "do_objectID": "FFEA5CE4-D0B7-475F-8C3B-87DE2946EC65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

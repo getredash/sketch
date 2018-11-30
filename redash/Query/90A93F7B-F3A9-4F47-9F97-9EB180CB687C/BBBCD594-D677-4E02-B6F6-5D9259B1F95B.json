@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBBCD594-D677-4E02-B6F6-5D9259B1F95B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13E49AFE-8070-4222-ABC0-C39018C66E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EA95825-C77C-4D8B-B47A-B4032C9EFFA2",
+    "height": 15,
+    "width": 195,
+    "x": 426,
+    "y": 267
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/regular copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AD6B29F-BCDA-4526-B584-4F168705BEEE",
+      "overrideName": "B71173B1-2A80-4F48-8688-659756DB9C1B_stringValue",
+      "value": "Sales report 2016"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A07033D0-67AF-4B6F-827A-24D39623073D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1B63AE8-36D8-4CA2-8B16-258A8FCFD6B6",
+  "verticalSpacing": 0
+}

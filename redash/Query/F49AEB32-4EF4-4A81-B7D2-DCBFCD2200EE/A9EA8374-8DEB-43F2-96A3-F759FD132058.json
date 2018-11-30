@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9EA8374-8DEB-43F2-96A3-F759FD132058",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5E05B80-FDA4-4773-A8E7-92C1A000AF57",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA727983-983F-4C17-B526-1A561E233E16",
+    "height": 35,
+    "width": 328,
+    "x": 634,
+    "y": 429
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6540551-84E9-4190-8522-2B4B511EFB86_stringValue",
+      "value": "Map to existing parameter"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00CFAEDF-2679-406A-B046-930C92EFD0C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2AF2791-0F01-44E1-8A83-0D19A212CD5F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90492C05-BB5B-4142-B54A-DB269C48EF75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 180,
+    "x": 413,
+    "y": 457
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data Source Item Copy 28",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FC0653D-F534-4825-B440-BF072972E4D4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ab7ef39206e81a538d908478ce7291ac256888fb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1ADA02AA-8DA3-4201-931D-6A3AA25A9575_stringValue",
+      "value": "Hive"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D21310A-1B21-4FA6-BBC3-0C86B0A9843A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8c79f3717830dd1cc613d725191236325c4b48b8.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3985507246376812
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3941A3B6-33F4-4CC9-A89B-C4EE056EE630",
+  "verticalSpacing": 0
+}

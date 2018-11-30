@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F75BDAE4-FFF6-42FE-9CC4-CC114471A79A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 180,
+    "x": 218,
+    "y": 354
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data Source Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF474067-E7F6-4667-AA0A-A270B7B0830D",
+      "overrideName": "4D21310A-1B21-4FA6-BBC3-0C86B0A9843A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/088c42fa2fe1cc860528f8d546e47f6d9373f31f.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23AAF5B0-46B8-4212-BAAC-31903D83B77B",
+      "overrideName": "1ADA02AA-8DA3-4201-931D-6A3AA25A9575_stringValue",
+      "value": "BigQuery"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3941A3B6-33F4-4CC9-A89B-C4EE056EE630",
+  "verticalSpacing": 0
+}

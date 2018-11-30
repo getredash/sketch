@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE3180FF-F64D-4F4D-8F52-5BB18A83B54A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDCD12B4-B93E-4C10-9586-3CB618A68DE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C19FD815-F041-4F80-A1FF-5BFE7A190590",
+    "height": 15,
+    "width": 423,
+    "x": 412,
+    "y": 169
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/regular copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76D290AD-402C-4707-A59C-9792A8D53E15",
+      "overrideName": "B71173B1-2A80-4F48-8688-659756DB9C1B_stringValue",
+      "value": "This is what will be added to your query editor: {{first_parameter}}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "DA883415-452A-482F-BF85-EDE6F6F65858",
+      "opacity": 0.65
+    },
+    "do_objectID": "9E6DB2EF-9BA6-4795-8F14-2E12FBDCCE61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1B63AE8-36D8-4CA2-8B16-258A8FCFD6B6",
+  "verticalSpacing": 0
+}

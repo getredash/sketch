@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "50E3A44B-BB6B-41AE-A678-0B78637577FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D81A6593-8419-4EC1-ADEB-3E2298EA2663",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CE56682-ADE8-42EF-A10E-B381CF50EE5B",
+    "height": 35,
+    "width": 172,
+    "x": 899,
+    "y": 431
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6540551-84E9-4190-8522-2B4B511EFB86_stringValue",
+      "value": "sales"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6CC9EE9-CC95-41C7-92DF-A01AC1D8E18B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2AF2791-0F01-44E1-8A83-0D19A212CD5F",
+  "verticalSpacing": 0
+}

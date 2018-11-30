@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C10FC93-2567-4246-B57D-6C629C53BA17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFC8359E-07B6-4112-97F7-51591B841474",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69BE59B8-722A-4317-A9A7-4D2D23F28FBE",
+    "height": 88,
+    "width": 180,
+    "x": 143,
+    "y": 475
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "data source listed copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1ADA02AA-8DA3-4201-931D-6A3AA25A9575_stringValue",
+      "value": "Redash Metadata"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D21310A-1B21-4FA6-BBC3-0C86B0A9843A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e9dfe6536bcd023a6d688b021530fd256b287594.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9BE501C-5CC7-4EB7-896E-55F7A8064BD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3941A3B6-33F4-4CC9-A89B-C4EE056EE630",
+  "verticalSpacing": 0
+}

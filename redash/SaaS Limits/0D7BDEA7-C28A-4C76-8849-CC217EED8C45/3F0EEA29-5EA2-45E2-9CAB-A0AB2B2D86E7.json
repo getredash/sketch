@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F0EEA29-5EA2-45E2-9CAB-A0AB2B2D86E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09025C05-D2C7-4786-9683-8A4FE9FA2EE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "497AA199-2816-473B-BFA5-8985D6DC3BA8",
+    "height": 35,
+    "width": 648,
+    "x": 348,
+    "y": 142
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input-active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF3ECFA4-F8F7-4814-9FE9-5864EA931A8D",
+      "overrideName": "9B67CADD-53C1-47EE-81A7-BB50BC805497_stringValue",
+      "value": "Dashboard name"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEFBC33B-0552-4016-B2AE-F398E76D4F2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "184E10D4-D3F7-4825-915B-75CDC144CFF0",
+  "verticalSpacing": 0
+}

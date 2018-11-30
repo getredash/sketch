@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "11B9AD4C-0D70-42FF-B462-BD725AA4B7D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0525BDA3-086A-4C5D-85C7-E90661E7A834",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26F70B08-FFA4-44CE-9F19-5277B98D4DE7",
+    "height": 15,
+    "width": 123,
+    "x": 16,
+    "y": 440
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "text/regular copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08942D12-0CD5-4CC9-9207-BD9E9FBD9D5C",
+      "overrideName": "6FC494EB-01C9-4F5E-98E3-3EE295B05FC2_stringValue",
+      "value": "Snippets"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19BBE6C1-BDFB-413D-AD6D-9B1DD47A92F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9DA961E-DD52-4C52-9E41-0091E2D1D1DF",
+  "verticalSpacing": 0
+}

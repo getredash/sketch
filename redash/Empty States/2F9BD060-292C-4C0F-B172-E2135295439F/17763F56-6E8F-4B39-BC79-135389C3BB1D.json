@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "17763F56-6E8F-4B39-BC79-135389C3BB1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 180,
+    "x": 218,
+    "y": 560
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data Source Item Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FC0653D-F534-4825-B440-BF072972E4D4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ab7ef39206e81a538d908478ce7291ac256888fb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1ADA02AA-8DA3-4201-931D-6A3AA25A9575_stringValue",
+      "value": "MemSQL"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D21310A-1B21-4FA6-BBC3-0C86B0A9843A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ae5d12e756c1d23493b2ee565a298454c41d8360.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3941A3B6-33F4-4CC9-A89B-C4EE056EE630",
+  "verticalSpacing": 0
+}

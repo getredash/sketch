@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "824085B6-D394-4396-BF12-7315FB7641AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 180,
+    "x": 218,
+    "y": 766
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Data Source Item Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1FC0653D-F534-4825-B440-BF072972E4D4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a1c2ed1fe521b056abd9ed01577b54195035eb03.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1ADA02AA-8DA3-4201-931D-6A3AA25A9575_stringValue",
+      "value": "Vertica"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D21310A-1B21-4FA6-BBC3-0C86B0A9843A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7491c69285c62ad3d211d8d4fb7a935155a749d1.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3941A3B6-33F4-4CC9-A89B-C4EE056EE630",
+  "verticalSpacing": 0
+}

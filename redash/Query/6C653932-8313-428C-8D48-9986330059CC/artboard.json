@@ -1,0 +1,143 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C653932-8313-428C-8D48-9986330059CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 1374,
+    "x": 15823,
+    "y": -342
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "90677E4A-D2F2-4EDE-B4E3-AA23FBE948B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7EEAC8B1-2E50-456A-AFAA-3A749FB5821C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "605CD21F-1C79-4FC1-BEAB-04BF0AAAFB5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62CD56AE-7846-46CC-A323-5BA611B25A02"
+    },
+    {
+      "class": "rectangle",
+      "id": "9CF14877-9CEB-475F-A350-9BF629ECC3E0"
+    },
+    {
+      "class": "text",
+      "id": "C947BCBE-EA5E-4A8D-97EF-CDFFAF624718"
+    },
+    {
+      "class": "rectangle",
+      "id": "20807273-D514-4014-92AA-A45B94897A48"
+    },
+    {
+      "class": "text",
+      "id": "D87C41B4-65C4-48C1-B8A1-6FD45FE62550"
+    },
+    {
+      "class": "text",
+      "id": "59819130-C862-44EB-B2DD-F3788C31672D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBBD5BE0-AA4C-4711-BB5E-E0D4DAA053AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C8F75D4-4E1E-4B70-B883-704F955C2CC0"
+    },
+    {
+      "class": "group",
+      "id": "E9B734C5-C667-490C-9D90-8AAE033D08FF"
+    },
+    {
+      "class": "group",
+      "id": "631CC6FA-E268-466E-8FA4-B64F44E3BACC"
+    },
+    {
+      "class": "group",
+      "id": "089378E6-CF3D-4A0C-950F-AB16E37D6A83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC74C698-AEAB-4261-9366-7C09E11272D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FDEDA2D-D293-4A09-8EA3-78A5CA220877"
+    }
+  ],
+  "name": "Add Widget 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AE02B98-D976-413A-A11B-824CF52362A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 702,
+    "width": 1451,
+    "x": -863,
+    "y": -448
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1050D80C-C1A8-459B-A619-5ED61B5B6E5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAD973A0-DA8B-46CC-9329-543C06E28E45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6672C088-C338-4267-B928-F65468ED4217"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E5449F-9B52-4543-BE92-3128A7D72CEA"
+    },
+    {
+      "class": "text",
+      "id": "018A125E-F88B-4E1C-8867-3613F974C2DC"
+    },
+    {
+      "class": "bitmap",
+      "id": "62E68E5B-3020-4FF0-8709-D1A0C4325AC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8FF48CC3-9B85-4445-A8A0-EF0EB1829781"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B7A5217-7228-4325-A1E6-CBA31DD38935"
+    },
+    {
+      "class": "rectangle",
+      "id": "65AFA802-2DF8-467C-9E15-846A390E26FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4981A75C-5B49-4571-AAC4-D9FE38DDE7FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07A8F284-E89D-4CFD-A764-70F08072A0A4"
+    },
+    {
+      "class": "text",
+      "id": "531E0B52-1B50-4212-8141-B0C7CBBAA2AA"
+    }
+  ],
+  "name": "login-1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

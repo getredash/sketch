@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3ACAC3CF-42A7-4087-B27A-F90568381F0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0AE509F-33D1-45D0-B8BB-5CCCE25089F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "908A3CB5-5DDD-4FF7-855B-BA087B2A0DDD",
+    "height": 30,
+    "width": 131,
+    "x": 831,
+    "y": 409
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53BC4EEE-1FE3-4247-A741-CC805CF845DA",
+      "overrideName": "8DBEF92A-A00E-4085-9799-A1DE5A7B8833_stringValue",
+      "value": "Add to Dashboard"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C29C9AB1-07AE-4112-B225-4DE442302D1F",
+      "opacity": 0.75
+    },
+    "do_objectID": "448EA509-71D6-4816-872E-5E35222759ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8528A2EB-88FA-42BA-B9CA-2B0073AD8CB4",
+  "verticalSpacing": 0
+}

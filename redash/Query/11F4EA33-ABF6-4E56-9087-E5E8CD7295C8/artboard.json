@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "11F4EA33-ABF6-4E56-9087-E5E8CD7295C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 750,
+    "width": 1374,
+    "x": 15725,
+    "y": -1162
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "4D2D4A11-BC8F-47AE-B878-77888D9DBB49"
+    },
+    {
+      "class": "rectangle",
+      "id": "533DD281-0701-4E79-B5C8-F937BB5E8E89"
+    },
+    {
+      "class": "text",
+      "id": "D898DFF0-162F-4EE2-9945-31D8FEFD053D"
+    },
+    {
+      "class": "text",
+      "id": "5A71C0F3-2D52-4165-BC24-A03FAC1892F4"
+    },
+    {
+      "class": "text",
+      "id": "0A39AEA9-1BC1-4B64-968D-2200C0E9E7D2"
+    },
+    {
+      "class": "group",
+      "id": "9D36DA81-D116-453F-BC01-3CCD92B1A07D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75D37C1F-785D-4A44-990E-6B8E68928E0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F694127-05F6-4E0E-B170-87398B09362B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B8C2BC0-E214-4146-A8B0-08FD5E15D40E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4BAA897-7726-4C79-9BB5-D2F63EB04D76"
+    },
+    {
+      "class": "text",
+      "id": "75B1F6E1-5B77-40BC-9D12-E000E92E6405"
+    },
+    {
+      "class": "text",
+      "id": "B4CEFE2B-7434-4608-953E-7F388393CF0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37DD0E2E-12B7-4BCE-8CF4-74F7FF16215C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDD6A9BA-DC97-4AF1-879D-E5662274302F"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5D1A3A0-F944-4814-990A-5BDC44ED5E5D"
+    },
+    {
+      "class": "rectangle",
+      "id": "A21C00F2-78A0-4354-86C2-34DB1D56B4B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "B975D66B-A290-4690-B8E0-B540640C782F"
+    },
+    {
+      "class": "group",
+      "id": "C904A3C6-620D-4CCA-BAA0-055ED2A98962"
+    }
+  ],
+  "name": "Add Widget 2 Hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
