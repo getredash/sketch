@@ -37,7 +37,7 @@
     "y": 3676
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -142,10 +142,6 @@
     {
       "class": "group",
       "id": "77A5975B-E8FD-45C6-8909-2AF21CD4DA24"
-    },
-    {
-      "class": "group",
-      "id": "1A1059DC-A933-411D-B655-6E7CE88C41A9"
     },
     {
       "class": "symbolInstance",
@@ -262,9 +258,13 @@
     {
       "class": "symbolInstance",
       "id": "6F42B06F-6893-410B-ACCE-2BDB3129043E"
+    },
+    {
+      "class": "text",
+      "id": "6CAF3127-51AB-4F89-936D-D6ACCA03031B"
     }
   ],
-  "name": "Query Sidebar Copy 2",
+  "name": "Query Sidebar Snippets",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

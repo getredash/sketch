@@ -37,7 +37,7 @@
     "y": 3676
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -256,7 +256,7 @@
       "id": "81C86876-0BA2-4CF2-977F-A7163AD746E7"
     }
   ],
-  "name": "Query Sidebar Copy",
+  "name": "Query Sidebar + Snippets + Parameters",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

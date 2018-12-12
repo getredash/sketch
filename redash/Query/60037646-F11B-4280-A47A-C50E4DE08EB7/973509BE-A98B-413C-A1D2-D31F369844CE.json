@@ -23,15 +23,15 @@
           "kerning": 0.3100000023841858,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 27,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Datasource: Redash Metadata"
+    "string": "Redash Metadata"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 276,
-    "x": 1070,
-    "y": 128
+    "width": 114,
+    "x": 641,
+    "y": 179
   },
-  "glyphBounds": "{{91, 2}, {184, 11}}",
+  "glyphBounds": "{{1, 2}, {105, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
         "kerning": 0.3100000023841858,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },
